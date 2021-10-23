@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Desarrolloweb_reto3_ciclo3.Desarrolloweb_reto3_ciclo3.DesarrollowebReto3Ciclo3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.452 s - in com.Desarrolloweb_reto3_ciclo3.Desarrolloweb_reto3_ciclo3.DesarrollowebReto3Ciclo3ApplicationTests
